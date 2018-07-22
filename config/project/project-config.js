@@ -1,0 +1,7 @@
+const CONFIG={
+  HTTP:{
+
+
+  }
+
+}
